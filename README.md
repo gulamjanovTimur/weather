@@ -1,24 +1,17 @@
-# postoplan
+# Тестовое задание в компанию POSTOPLAN
 
-## Project setup
-```
-yarn install
-```
+https://postoplan.contenive.com/ru
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+## Шаги для запуска проекта
 
-### Compiles and minifies for production
-```
-yarn build
+1. Необходимо скачать зависимости
+
+```bash
+yarn
 ```
 
-### Lints and fixes files
-```
-yarn lint
-```
+2. Запуск проекта
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+```bash
+yarn dev
+```
